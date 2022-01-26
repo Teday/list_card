@@ -1,0 +1,21 @@
+{
+    "produk": [
+        {
+            "title": "Baju",
+            "produk_list" : [
+                {
+                    "nama_produk": "Kemeja polos pendek",
+                    "desc_produk": "Kemeja warna putih polos lengan pendek",
+                    "harga_produk": 100000,
+                    "img_produk": "https://s2.bukalapak.com/img/7773412981/large/BAJU_KEMEJA_PRIA_LENGAN_PENDEK_SLIM_FIT_Kemeja_WL_MODEL_KEME.jpg"
+                },
+                {
+                    "nama_produk": "Kemeja polos panjang",
+                    "desc_produk": "Kemeja warna putih polos lengan panjang",
+                    "harga_produk": 120000,
+                    "img_produk": "https://images.tokopedia.net/img/cache/500-square/product-1/2016/4/29/8922131/8922131_107deffa-9839-4286-b096-34172c6b2707.jpg"
+                }
+            ]
+        }
+    ]
+}
