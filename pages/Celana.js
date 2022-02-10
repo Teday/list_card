@@ -12,9 +12,9 @@ export default function Home() {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link active href="/">Home</Nav.Link>
+            <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/Baju">Baju</Nav.Link>
-            <Nav.Link href="/Celana">Celana</Nav.Link>
+            <Nav.Link active href="/Celana">Celana</Nav.Link>
           </Nav>
         </Navbar.Collapse>
         </Container>

@@ -14,8 +14,41 @@
                     "desc_produk": "Kemeja warna putih polos lengan panjang",
                     "harga_produk": 120000,
                     "img_produk": "https://images.tokopedia.net/img/cache/500-square/product-1/2016/4/29/8922131/8922131_107deffa-9839-4286-b096-34172c6b2707.jpg"
+                },
+                {
+                    "nama_produk": "Kemeja coklat",
+                    "desc_produk": "Kemeja warna coklat polos lengan panjang",
+                    "harga_produk": 120000,
+                    "img_produk": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcjkz2XcbXXSLwMQwYG74JxqTH0WLR7TYlEA&usqp=CAU"
+                },
+                {
+                    "nama_produk": "Kemeja merah",
+                    "desc_produk": "Kemeja warna merah polos lengan pendek",
+                    "harga_produk": 100000,
+                    "img_produk": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjyub1F4i2JuwrwS-5mC-95xqRKhk7LSO1lg&usqp=CAU"
+                }
+            ]
+        },
+        {
+            "title": "Celana",
+            "produk_list" : [
+                {
+                    "nama_produk": "Celana pendek",
+                    "desc_produk": "celana polos pendek untuk pria",
+                    "harga_produk": 50000,
+                    "img_produk": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhibKbWvEPmn7X0dc7_CZVR96X7v-wuHvXXA&usqp=CAU"
+                },
+                {
+                    "nama_produk": "Celana jeans",
+                    "desc_produk": "Celana jeans pendek",
+                    "harga_produk": 70000,
+                    "img_produk": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStnu0hrJGwywXVBAuE7oPv8UpIU9fRyuoUSw&usqp=CAU"
                 }
             ]
         }
     ]
 }
+
+
+
+
